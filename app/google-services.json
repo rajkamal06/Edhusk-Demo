@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170608975536",
+    "project_id": "edhusk-demo",
+    "storage_bucket": "edhusk-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170608975536:android:bee4d350efb9e228042575",
+        "android_client_info": {
+          "package_name": "com.example.edhuskdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170608975536-hh151p6gddhgtmsda2hvhqa4pjk768ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQh8Bis0dv564-6-3nj7oo17XAMw1QKIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170608975536-hh151p6gddhgtmsda2hvhqa4pjk768ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
